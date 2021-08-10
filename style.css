@@ -1,0 +1,15 @@
+body {
+    background-color: #ECF0F5;
+    font-family: Arial, serif;
+    font-size: 12;
+}
+
+#enregistrer {
+    background-color: #00C0EF;
+    color: white;
+}
+
+#annuler {
+    background-color: #F39C12;
+    color: white;
+}
